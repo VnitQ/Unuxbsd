@@ -128,4 +128,4 @@ libvmmapi	#bhyve	Pre-commit review requested via #bhyve phabricator group.
 usr.sbin/bhyve*	#bhyve	Pre-commit review requested via #bhyve phabricator group.
 sys/dev/usb/wlan adrian	Pre-commit review requested, send to freebsd-wireless@freebsd.org
 sys/arm/allwinner	manu	Pre-commit review requested
-sys/arm64/rockchip	manu	Pre-commit review requested
+sys/arm64/rockchip	manu	Pre-commit review requested.
